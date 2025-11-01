@@ -1,0 +1,15 @@
+D:\csharp\HITunity\buoi3\bai2\bai2\bin\Debug\net8.0\bai2.exe
+D:\csharp\HITunity\buoi3\bai2\bai2\bin\Debug\net8.0\bai2.deps.json
+D:\csharp\HITunity\buoi3\bai2\bai2\bin\Debug\net8.0\bai2.runtimeconfig.json
+D:\csharp\HITunity\buoi3\bai2\bai2\bin\Debug\net8.0\bai2.dll
+D:\csharp\HITunity\buoi3\bai2\bai2\bin\Debug\net8.0\bai2.pdb
+D:\csharp\HITunity\buoi3\bai2\bai2\obj\Debug\net8.0\bai2.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\HITunity\buoi3\bai2\bai2\obj\Debug\net8.0\bai2.AssemblyInfoInputs.cache
+D:\csharp\HITunity\buoi3\bai2\bai2\obj\Debug\net8.0\bai2.AssemblyInfo.cs
+D:\csharp\HITunity\buoi3\bai2\bai2\obj\Debug\net8.0\bai2.csproj.CoreCompileInputs.cache
+D:\csharp\HITunity\buoi3\bai2\bai2\obj\Debug\net8.0\bai2.sourcelink.json
+D:\csharp\HITunity\buoi3\bai2\bai2\obj\Debug\net8.0\bai2.dll
+D:\csharp\HITunity\buoi3\bai2\bai2\obj\Debug\net8.0\refint\bai2.dll
+D:\csharp\HITunity\buoi3\bai2\bai2\obj\Debug\net8.0\bai2.pdb
+D:\csharp\HITunity\buoi3\bai2\bai2\obj\Debug\net8.0\bai2.genruntimeconfig.cache
+D:\csharp\HITunity\buoi3\bai2\bai2\obj\Debug\net8.0\ref\bai2.dll

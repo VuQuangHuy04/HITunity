@@ -1,0 +1,15 @@
+D:\csharp\HITunity\buoi3\bai3\bai3\bin\Debug\net8.0\bai3.exe
+D:\csharp\HITunity\buoi3\bai3\bai3\bin\Debug\net8.0\bai3.deps.json
+D:\csharp\HITunity\buoi3\bai3\bai3\bin\Debug\net8.0\bai3.runtimeconfig.json
+D:\csharp\HITunity\buoi3\bai3\bai3\bin\Debug\net8.0\bai3.dll
+D:\csharp\HITunity\buoi3\bai3\bai3\bin\Debug\net8.0\bai3.pdb
+D:\csharp\HITunity\buoi3\bai3\bai3\obj\Debug\net8.0\bai3.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\HITunity\buoi3\bai3\bai3\obj\Debug\net8.0\bai3.AssemblyInfoInputs.cache
+D:\csharp\HITunity\buoi3\bai3\bai3\obj\Debug\net8.0\bai3.AssemblyInfo.cs
+D:\csharp\HITunity\buoi3\bai3\bai3\obj\Debug\net8.0\bai3.csproj.CoreCompileInputs.cache
+D:\csharp\HITunity\buoi3\bai3\bai3\obj\Debug\net8.0\bai3.sourcelink.json
+D:\csharp\HITunity\buoi3\bai3\bai3\obj\Debug\net8.0\bai3.dll
+D:\csharp\HITunity\buoi3\bai3\bai3\obj\Debug\net8.0\refint\bai3.dll
+D:\csharp\HITunity\buoi3\bai3\bai3\obj\Debug\net8.0\bai3.pdb
+D:\csharp\HITunity\buoi3\bai3\bai3\obj\Debug\net8.0\bai3.genruntimeconfig.cache
+D:\csharp\HITunity\buoi3\bai3\bai3\obj\Debug\net8.0\ref\bai3.dll
