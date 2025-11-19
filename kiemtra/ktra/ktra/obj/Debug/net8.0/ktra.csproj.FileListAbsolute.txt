@@ -1,0 +1,15 @@
+C:\Users\Admin\Downloads\unity\HITunity\ktra\ktra\obj\Debug\net8.0\ktra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\unity\HITunity\ktra\ktra\obj\Debug\net8.0\ktra.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\unity\HITunity\ktra\ktra\obj\Debug\net8.0\ktra.AssemblyInfo.cs
+C:\Users\Admin\Downloads\unity\HITunity\ktra\ktra\obj\Debug\net8.0\ktra.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\unity\HITunity\ktra\ktra\obj\Debug\net8.0\ktra.sourcelink.json
+C:\Users\Admin\Downloads\unity\HITunity\ktra\ktra\bin\Debug\net8.0\ktra.exe
+C:\Users\Admin\Downloads\unity\HITunity\ktra\ktra\bin\Debug\net8.0\ktra.deps.json
+C:\Users\Admin\Downloads\unity\HITunity\ktra\ktra\bin\Debug\net8.0\ktra.runtimeconfig.json
+C:\Users\Admin\Downloads\unity\HITunity\ktra\ktra\bin\Debug\net8.0\ktra.dll
+C:\Users\Admin\Downloads\unity\HITunity\ktra\ktra\bin\Debug\net8.0\ktra.pdb
+C:\Users\Admin\Downloads\unity\HITunity\ktra\ktra\obj\Debug\net8.0\ktra.dll
+C:\Users\Admin\Downloads\unity\HITunity\ktra\ktra\obj\Debug\net8.0\refint\ktra.dll
+C:\Users\Admin\Downloads\unity\HITunity\ktra\ktra\obj\Debug\net8.0\ktra.pdb
+C:\Users\Admin\Downloads\unity\HITunity\ktra\ktra\obj\Debug\net8.0\ktra.genruntimeconfig.cache
+C:\Users\Admin\Downloads\unity\HITunity\ktra\ktra\obj\Debug\net8.0\ref\ktra.dll

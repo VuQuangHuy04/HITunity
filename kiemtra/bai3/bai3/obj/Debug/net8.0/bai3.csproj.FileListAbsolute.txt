@@ -1,0 +1,15 @@
+C:\Users\Admin\Downloads\unity\HITunity\bai3\bai3\obj\Debug\net8.0\bai3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\unity\HITunity\bai3\bai3\obj\Debug\net8.0\bai3.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\unity\HITunity\bai3\bai3\obj\Debug\net8.0\bai3.AssemblyInfo.cs
+C:\Users\Admin\Downloads\unity\HITunity\bai3\bai3\obj\Debug\net8.0\bai3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\unity\HITunity\bai3\bai3\obj\Debug\net8.0\bai3.sourcelink.json
+C:\Users\Admin\Downloads\unity\HITunity\bai3\bai3\bin\Debug\net8.0\bai3.exe
+C:\Users\Admin\Downloads\unity\HITunity\bai3\bai3\bin\Debug\net8.0\bai3.deps.json
+C:\Users\Admin\Downloads\unity\HITunity\bai3\bai3\bin\Debug\net8.0\bai3.runtimeconfig.json
+C:\Users\Admin\Downloads\unity\HITunity\bai3\bai3\bin\Debug\net8.0\bai3.dll
+C:\Users\Admin\Downloads\unity\HITunity\bai3\bai3\bin\Debug\net8.0\bai3.pdb
+C:\Users\Admin\Downloads\unity\HITunity\bai3\bai3\obj\Debug\net8.0\bai3.dll
+C:\Users\Admin\Downloads\unity\HITunity\bai3\bai3\obj\Debug\net8.0\refint\bai3.dll
+C:\Users\Admin\Downloads\unity\HITunity\bai3\bai3\obj\Debug\net8.0\bai3.pdb
+C:\Users\Admin\Downloads\unity\HITunity\bai3\bai3\obj\Debug\net8.0\bai3.genruntimeconfig.cache
+C:\Users\Admin\Downloads\unity\HITunity\bai3\bai3\obj\Debug\net8.0\ref\bai3.dll
